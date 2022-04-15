@@ -5,8 +5,8 @@ public class CalculatorDemo {
 	public int Addition(int a, int b) {
 		return a+b;
 			}
-	public int multiplication(int a, int b) {
-		return a*b;
+	public int multiplication(int a, int c) {
+		return a*c;
 	}
 
 	public static void main(String[] args) {
